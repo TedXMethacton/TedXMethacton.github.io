@@ -42,6 +42,11 @@ label {
     border-bottom: 1px solid rgba(0,0,0,0.1);
 }
 
+.l-box-cus {
+    padding: 5em;
+    border-bottom: 1px solid rgba(0,0,0,0.1);
+}
+
 .is-center {
     text-align: center;
 }
