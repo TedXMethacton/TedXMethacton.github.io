@@ -137,7 +137,7 @@ a.pure-button-primary {
  */
 
 .splash-container {
-    background: #1f8dd6;
+    background: #bbbbbb;
     z-index: 1;
     overflow: hidden;
     /* The following styles are required for the "scroll-over" effect */
@@ -161,9 +161,9 @@ a.pure-button-primary {
 
 /* This is the main heading that appears on the blue section */
 .splash-head {
-    font-size: 20px;
+    font-size: 30px;
     font-weight: bold;
-    color: white;
+    color: #005A31;
     border: 3px solid white;
     padding: 1em 1.6em;
     font-weight: 100;
