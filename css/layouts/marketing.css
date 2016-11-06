@@ -127,7 +127,7 @@ a.pure-button-primary {
 .home-menu li a:focus {
     background: none;
     border: none;
-    color: #AECFE5;
+    color: #005A31;
 }
 
 
@@ -161,9 +161,9 @@ a.pure-button-primary {
 
 /* This is the main heading that appears on the blue section */
 .splash-head {
-    font-size: 30px;
+    font-size: 20px;
     font-weight: bold;
-    color: #005A31;
+    color: white;
     border: 3px solid white;
     padding: 1em 1.6em;
     font-weight: 100;
