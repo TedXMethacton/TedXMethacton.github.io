@@ -193,8 +193,12 @@
 
 
 
-<script data-cfasync="false" type="text/javascript"
-src="/"></script>
+<script data-cfasync="false" type="text/javascript">
+    $("#notification").fadeIn("slow").append('Success!');
+$(".dismiss").click(function(){
+       $("#notification").fadeOut("slow");
+});
+</script>
 
 </body>
 </html>
